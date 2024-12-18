@@ -1,0 +1,3 @@
+## Emotional Landscape of December
+
+The code generates a visually complex and interactive circular element. Three semi-transparent layers with radial gradients are overlaid on a circular base, each animating independently to create a pulsating effect. A hover effect enhances the visual feedback by increasing the scale, shadow, and reducing the blur of the layers, providing a more dynamic user experience. The use of CSS variables makes it easy to customize the colors and blur effects.
